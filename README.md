@@ -1,3 +1,3 @@
-login
-deliveries
+login,
+deliveries,
 driverprofilescreen
